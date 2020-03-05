@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CustomeImplementations/scenes/Model_Heuristics.unity
+  isLoaded: 1
+  isActive: 1
