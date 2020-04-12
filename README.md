@@ -1,4 +1,3 @@
-"# Karting" 
 # Kart ML project
 ## Introduction, Kart-ML
 In this project we have taken the unity Karting tutorial
