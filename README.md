@@ -1,5 +1,5 @@
 # Kart ML project
-this is the final project for ML with unity at IDC fall 2019
+this is the final project for ML with unity at IDC fall 2019\20
 <br>created by:
 * Alon Shoa
 * Tamir Caspi
