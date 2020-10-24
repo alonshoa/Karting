@@ -1,4 +1,8 @@
 # Kart ML project
+this is the final project for ML with unity at IDC fall 2019
+<br>created by:
+* Alon Shoa
+* Tamir Caspi
 ## Introduction, Kart-ML
 In this project we have taken the unity Karting tutorial
  https://learn.unity.com/project/karting-template
