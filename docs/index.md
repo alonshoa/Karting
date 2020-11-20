@@ -1,4 +1,8 @@
 # Kart ML project
+this project was a final project in ml with unity at IDC fall 2019/20
+submitted by:
+* [Alon Shoa](https://github.com/alonshoa)
+* [Tamir Caspi](https://github.com/tamirc3)
 ## Introduction, Kart-ML
 In this project we have taken the unity Karting tutorial
  https://learn.unity.com/project/karting-template
@@ -44,12 +48,12 @@ As the Agent requires, we implemented the following methods:
 
 ## Learning and training process
 We tested a few approaches for learning, and we saw that if we train it a lot, we can reach overfitting. In the graph below, after a night run (about ~25M steps) it has overfitted, we can see that when we changed the road at 30 degrees and you can see that the reward got stuck in about 50. In the later phase, in the last period in the graph we changed it back and saw that the reward is increasing. 
-![Figure1: over fitting learning curve](../images/5.png) 
+![Figure1: over fitting learning curve](./images/5.png) 
  
 
 After seeing the above behavior, we understand that changing the degree of the road can be important to not overfit. We tested a few rounds and saw that it can help the training process, as we can see in the below graph.
 The first part is training on 0, then 30, then 90. We can see also that it assists the learning duration, we got to ~100 in less than 10M moves were in the previous we got to ~100 in more than 20M steps.
-![Figure2: learning curve, with different roads](../images/4.PNG)
+![Figure2: learning curve, with different roads](./images/4.PNG)
  
 ## Summary and conclusions
 We did several trainings, one that was about ~40M steps and the other was ~10M steps. In both scenarios the agent was able to finish the lap. We saw that adding rotation to the environment can reduce the overfitting of the training. We used 80 karts on a machine with GPU. 
