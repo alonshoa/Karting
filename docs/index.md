@@ -8,6 +8,8 @@ In this project we have taken the unity Karting tutorial
  https://learn.unity.com/project/karting-template
 We created a self-racing Karting agent that learned how to complete our custom course. and We implemented ml-agent using the ml-agent toolkit (using the pythonAPI v14) we used  PPO with reinforcement learning for training the kartAgent. 
 
+<video src="./images/video.mp4" width="320" height="200" controls preload></video>
+
 ## Training policy
 Our policy for training the kart agent: 
  * Kart speed:
