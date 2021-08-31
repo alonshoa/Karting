@@ -3,6 +3,10 @@ this is the final project for ML with unity at IDC fall 2019\20
 <br>created by:
 * Alon Shoa
 * Tamir Caspi
+
+This repo is archived.
+
+
 ## Introduction, Kart-ML
 In this project we have taken the unity Karting tutorial
  https://learn.unity.com/project/karting-template
